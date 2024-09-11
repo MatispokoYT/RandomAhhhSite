@@ -1,0 +1,10 @@
+﻿body {
+    background-color: #b3dbb9;
+    font-family: "Comic Sans MS";
+}
+
+#titel {
+    text-align: center;
+    color:black;
+    font-size: 69px;
+}
